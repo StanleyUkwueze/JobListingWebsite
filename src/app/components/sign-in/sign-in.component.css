@@ -233,10 +233,7 @@ p.get-pw {
   margin: 0em 0em 1.5em 0em;
   border-style: solid;
 }
-.log-input input.user {
-}
-.log-input input.lock {
-}
+
 .log-input-left {
   float: left;
   width: 90%;
